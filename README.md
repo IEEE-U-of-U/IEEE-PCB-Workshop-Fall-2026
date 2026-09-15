@@ -55,7 +55,6 @@ While it is recommended to attend all sessions, we will provide the design and w
 ## Contact Info
 
 - Questions may be routed to the IEEE email: ieee.studentbranch.uofu@gmail.com
-- Updates are also posted on the IEEE / ECE discord: https://discord.gg/TMjhuDCCfy
 
 ## Sign-Up Flyer
 
