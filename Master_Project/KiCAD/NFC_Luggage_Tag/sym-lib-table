@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "NFC_Luggage_Tag-altium-import")(type "KiCad")(uri "${KIPRJMOD}/NFC_Luggage_Tag-altium-import.kicad_sym")(options "")(descr ""))
+)
