@@ -23,14 +23,14 @@ Sept 15th, 2026
 
 ## Recording
 
-Recording posted to YouTube: TBD
+Recording posted to YouTube: https://www.youtube.com/watch?v=ynpHTupj1Ac
 
 ## Files
 ### Altium Workshop Week 01 - Intro to Schematics.pdf
 Workshop introduction presentation. Used to cover a basic intro before covering the ECAD software.
 
-### Altium Design File Reference.zip (To Be Posted)
+### Altium Design File Reference.zip
 Altium Files and Library for the Week01 Workshop. Includes all necessary files to follow along in the session.
 
-### KiCAD Design File Reference.zip (To Be Posted)
+### KiCAD Design File Reference.zip
 KiCAD Files and Library for the Week01 Workshop. Includes all necessary files to follow along for most of the session.
