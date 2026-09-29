@@ -25,14 +25,12 @@ https://goodcalculators.com/resonant-frequency-calculator/
 
 ## Recording
 
-Recording posted to YouTube: TBD
+Recording posted to YouTube: https://www.youtube.com/watch?v=wFKuliDNZ5U
+
 
 ## Files
-### Altium Design File Reference.zip
-Altium Files for the Week02 Workshop. Includes all necessary files to follow along in the session.
-
-### KiCAD Design File Reference.zip
-KiCAD Files and Library for the Week02 Workshop. Includes all necessary files to follow along for most of the session.
 
 ### Altium Workshop Week 02 - Datasheets and Components.pdf
 Workshop presentation covering schematic libraries and symbols. Also introduced external tools like SamacSys to assist with symbol creation.
+
+No project files provided this week as focus was on schematic component libraries.

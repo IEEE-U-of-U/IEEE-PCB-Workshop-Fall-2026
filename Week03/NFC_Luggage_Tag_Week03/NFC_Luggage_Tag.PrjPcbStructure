@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=NFC_Luggage_Tag.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=NFC_Luggage_Tag.SchDoc|Designator=Microcontroller|SchDesignator=Microcontroller|FileName=Microcontroller.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Microcontroller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=NFC_Luggage_Tag.SchDoc|Designator=NFC_Controller|SchDesignator=NFC_Controller|FileName=NFC_Controller.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=NFC_Controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
