@@ -1,0 +1,220 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9684cb24-79f2-4bf6-b9c8-b2c02891a48a")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 127 105.41) (xy 167.64 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4331efef-9645-4e88-83ad-f3519dd6d9c4")
+	)
+	(wire
+		(pts
+			(xy 127 110.49) (xy 167.64 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d95748f-6cf2-4320-b6c4-ed970fd070dd")
+	)
+	(wire
+		(pts
+			(xy 127 107.95) (xy 167.64 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e99d13e-a49b-4aa7-833d-6754f1f15d26")
+	)
+	(wire
+		(pts
+			(xy 167.64 102.87) (xy 127 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec15a8cd-e143-4840-80a0-cdfcde8203bd")
+	)
+	(sheet
+		(at 167.64 90.17)
+		(size 50.8 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 128 0 0 1)
+		)
+		(fill
+			(color 159 197 232 1.0000)
+		)
+		(uuid "28491d16-015e-4036-9815-8960185b8603")
+		(property "Sheetname" "NFC_Controller"
+			(at 167.64 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "NFC_Controller.kicad_sch"
+			(at 167.64 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "NFC_GPO" passive
+			(at 167.64 107.95 180)
+			(uuid "2855855d-d491-41df-84de-8a181b92fdbe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C1_SCL" passive
+			(at 167.64 102.87 180)
+			(uuid "d9a76edf-6d95-49cb-8e91-f326f20e9096")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C1_SDA" passive
+			(at 167.64 105.41 180)
+			(uuid "f10493f4-5c3f-415b-b0b6-d9bf5b250926")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SAO_GPIO2" passive
+			(at 167.64 110.49 180)
+			(uuid "4e72d99a-9670-477f-9acf-6be86c412c0b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "NFC_Luggage_Tag"
+				(path "/9684cb24-79f2-4bf6-b9c8-b2c02891a48a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 90.17)
+		(size 50.8 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 128 0 0 1)
+		)
+		(fill
+			(color 249 203 156 1.0000)
+		)
+		(uuid "d3e5dba9-89a5-44e7-9d0b-a718abd6abc8")
+		(property "Sheetname" "Microcontroller"
+			(at 76.2 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microcontroller.kicad_sch"
+			(at 76.2 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "NFC_GPO" passive
+			(at 127 107.95 0)
+			(uuid "c7933013-7c38-4349-a523-79213a50569f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C1_SCL" passive
+			(at 127 102.87 0)
+			(uuid "28ddaf52-ec19-4097-bc51-ef0cae4aaf11")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C1_SDA" passive
+			(at 127 105.41 0)
+			(uuid "f77eefd2-f530-4b95-a62c-aa5d97c871a6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SAO_GPIO2" passive
+			(at 127 110.49 0)
+			(uuid "dfb78920-71b7-40be-b43c-c0dc5d85df2e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "NFC_Luggage_Tag"
+				(path "/9684cb24-79f2-4bf6-b9c8-b2c02891a48a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
