@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NFC_Luggage_Tag.PcbDoc   10/6/2026  3:31:43 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NFC_Luggage_Tag-RoundHoles.TXT
+ASCII SlotHoles File : NFC_Luggage_Tag-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      14mil (0.35mm)                                            Round             116       PTH        12.75inch (323.77mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        1.42inch (36.11mm)
+T3      41mil (1.05mm)                                            Round             6         PTH        0.50inch (12.70mm)
+T4      45mil (1.15mm)                                            Round             8         PTH        1.90inch (48.33mm)
+T5      118mil (3mm)                                              Slot              1         PTH        0.47inch (12.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              135
+
+Total Processing Time (hh:mm:ss) : 00:00:00

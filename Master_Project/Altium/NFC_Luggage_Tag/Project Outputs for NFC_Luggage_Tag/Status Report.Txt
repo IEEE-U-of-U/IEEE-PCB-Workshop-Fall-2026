@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [NFC_Luggage_Tag.PcbDoc]
+   Generated File[NFC_Luggage_Tag-RoundHoles.TXT]
+   Generated File[NFC_Luggage_Tag-SlotHoles.TXT]
+   Generated File[NFC_Luggage_Tag.LDP]
+   Generated File[NFC_Luggage_Tag.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 3:31:43 PM On 10/6/2026

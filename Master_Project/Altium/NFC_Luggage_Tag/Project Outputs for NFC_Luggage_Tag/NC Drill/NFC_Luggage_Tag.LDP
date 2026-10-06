@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\AdrianSucahyo\GitHub\IEEE-PCB-Workshop-Fall-2026-Private\Master_Project\Altium\NFC_Luggage_Tag\NFC_Luggage_Tag.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=nfc_luggage_tag-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=nfc_luggage_tag-slotholes.txt|DrillLayers=gtl,gbl
